@@ -3,8 +3,6 @@
 
 <p>Welcome to my page! </p>
 <h3>Things I code with</h3>
-### 🌟  Technologies
-
 <div align="left">
 <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"></a>
   <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"></a>
@@ -25,9 +23,6 @@
 <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"></a>
 </div>
-
-### 🔧 Tools
-
 <div align="left">
   <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=Apple&logoColor=white"></a>
    <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"></a>
